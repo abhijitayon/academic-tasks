@@ -1,0 +1,8 @@
+S,101,Ratul,9000.0
+C,102,Ayon,21900.0
+T,Account created: 101
+T,Account created: 102
+T,Deposited: 2000.0
+T,Withdrawn: 1000.0
+T,Transferred: 3000.0 from 101 to 102
+T,Service charge: 102
